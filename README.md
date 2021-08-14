@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="60px"/>I'm <a href="https://github.com/ohmono">Juan Cardona<a><img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="60px"/></h1>
+<h1 align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="60px"/>I'm <a href="https://github.com/ohmono">ohmono <a><img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="60px"/></h1>
 <Br>
 
 
