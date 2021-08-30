@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1> 🏆 My Stats 🏆 ¯\_(ツ)_/¯</h1>
 
-![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=ohmono&theme=gruvbox&rank=B,A,SECRET)
+![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=ohmono&theme=gruvbox&rank=B,AA,A,SECRET)
 <h1>
     <a href="">    
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ohmono&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage" />
