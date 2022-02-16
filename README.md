@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--
 ![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=ohmono&theme=gruvbox&rank=B,AA,A,SECRET)
 -->
-<h1 class="text-center">
+<h1>
     <a href="">    
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ohmono&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage" />
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmono&layout=compact&theme=ayu-mirage" />
