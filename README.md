@@ -52,7 +52,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
 
 
-    </div>
+    <div/>
 
 
 
