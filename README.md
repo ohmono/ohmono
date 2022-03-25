@@ -1,21 +1,48 @@
-<div align="center">
-    <h1>Hi there 👋</h1>
-    <hr/>
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" width="60px"/>
-    <h3>I'm </h3> 
-    <a href="https://github.com/ohmono">ohmono</a>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <title>Document</title>
+
+  </head>
+  <body>
+    <table class="table">
+      <thead>
+        
+        <tr>
+          <th scope="col">Info</th>
+          <th scope="col">
+              
+             Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+
+          </th>
+
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" class="col-1">
+
+<strong>Hi there 👋</strong>
+
+<p>I'm
+    <a href="https://github.com/ohmono">Juan Cardona</a> </p>
     <img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="60px"/>
-    <hr/>
-    <h1> 🏆 My Stats 🏆 ¯\_(ツ)_/¯</h1>
-    <br />
-    <h1>
-        <a>    
-            <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ohmono&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage" />
-            <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmono&layout=compact&theme=ayu-mirage" />
-        </a>
-    </h1>
-        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-        <a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+
+          </th>
+          <td class="col-2">
+
+<div >
+    
+    <a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
         <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
         <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
         <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -51,6 +78,18 @@
         <a href= https://github.com/?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
         <a href= https://github.com/?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
 
-    </div>
+</div>
 
-![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=ohmono&theme=gruvbox&rank=B,AA,A,SECRET)
+          </td>
+          <td class="col-4">
+
+            <a>
+                <img align="" height='130px' width="300px" src="https://github-readme-stats.vercel.app/api?username=ohmono&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage" />
+                <img align="" height='130px' width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmono&layout=compact&theme=ayu-mirage" />
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </body>
